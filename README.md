@@ -8,7 +8,7 @@ Building intelligent software, AI agents, automation systems, and decentralized 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shivamsoni28)
 [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/shivam_soni18)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=flat-square)](https://yourportfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=flat-square)](https://shivamsoni.me)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ss28022802@gmail.com)
 
 </div>
