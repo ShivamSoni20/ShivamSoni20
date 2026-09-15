@@ -2,9 +2,9 @@
 
 # Hi, I'm Shivam Soni 👋
 
-### AI Automation Engineer • Full Stack AI & Web3 Developer
+### AI Automation Engineer • Full-Stack Developer
 
-Building intelligent software, AI agents, automation systems, and decentralized applications that solve real-world problems.
+Building AI agents, LLM-powered workflows, and automation systems — from AI SaaS platforms to developer tooling.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shivamsoni28)
 [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/shivam_soni18)
@@ -17,19 +17,18 @@ Building intelligent software, AI agents, automation systems, and decentralized 
 
 # 🚀 About Me
 
-I'm an independent AI & Web3 engineer passionate about building products that combine artificial intelligence, automation, and blockchain infrastructure.
+I'm an independent AI engineer building products that combine LLMs, autonomous agents, and workflow automation.
 
 Over the past year I've built:
 
 - 🤖 AI SaaS platforms
 - 🧠 AI Agent Systems
 - ⚡ Workflow Automation
-- ⛓️ Smart Contracts
-- 💸 Cross-chain Payment Systems
-- 🏦 DeFi Infrastructure
 - 🌍 Open Source Developer Tools
+- 💸 Payment & Billing Infrastructure
+- ⛓️ Smart Contracts (select projects)
 
-I'm currently building toward an **AI Automation & Web3 Agency** focused on helping startups build intelligent software and automate business operations.
+Most recently, I worked as an **AI Automation Associate at Fiveral Ventures LLP**, building production LLM integrations and event-driven automation pipelines.
 
 ---
 
@@ -45,43 +44,43 @@ Next.js • TypeScript • OpenAI • Supabase
 
 ---
 
-## 💰 StructuredYield
-
-A Uniswap v4 Hook that separates LP positions into Principal Tokens and Yield Tokens.
-
-**Tech**
-
-Solidity • Uniswap v4 • React • TypeScript
-
----
-
-## 🌍 OrbitPay
-
-Blockchain-powered payroll and cross-border payment platform built on Stellar.
-
-**Tech**
-
-Stellar • React • TypeScript
-
----
-
 ## 🤖 AgentMarket
 
-Autonomous AI Agent Marketplace with on-chain escrow and payments.
+Autonomous AI Agent Marketplace with escrowed payments and result verification.
 
 **Tech**
 
-Solidity • Next.js • Node.js • AI Agents
+Next.js • Node.js • AI Agents • Solidity
 
 ---
 
 ## 💳 DodoArc
 
-Programmable billing infrastructure for AI applications powered by Solana.
+Programmable billing infrastructure for AI applications.
 
 **Tech**
 
-Solana • Dodo Payments • TypeScript
+TypeScript • Dodo Payments • Solana
+
+---
+
+## 🌍 OrbitPay
+
+Payroll and cross-border payment platform.
+
+**Tech**
+
+React • TypeScript • Stellar
+
+---
+
+## 💰 StructuredYield
+
+A Uniswap v4 Hook separating LP positions into Principal Tokens and Yield Tokens.
+
+**Tech**
+
+Solidity • Uniswap v4 • React • TypeScript
 
 ---
 
@@ -108,13 +107,6 @@ Solana • Dodo Payments • TypeScript
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### ⛓️ Blockchain
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
-![Stellar](https://img.shields.io/badge/Stellar-000000?style=for-the-badge&logo=stellar&logoColor=white)
-![Uniswap](https://img.shields.io/badge/Uniswap_v4-FF007A?style=for-the-badge)
-
 ### ☁️ Dev Tools
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -122,16 +114,21 @@ Solana • Dodo Payments • TypeScript
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
+### 🔗 Also worked with
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
+![Stellar](https://img.shields.io/badge/Stellar-000000?style=for-the-badge&logo=stellar&logoColor=white)
+
 </div>
 
 # 🌱 Currently Exploring
 
 - Autonomous AI Agents
 - AI Infrastructure
-- DeFi Protocol Design
-- Cross-chain Payments
 - Agentic Commerce
 - AI Workflow Automation
+- RAG & Document Intelligence
 
 ---
 
@@ -142,9 +139,7 @@ I'm always interested in collaborating on:
 - AI Products
 - AI Automation
 - Developer Tools
-- Smart Contracts
 - Open Source
-- Web3 Infrastructure
 
 If you're building something ambitious, let's connect.
 
@@ -152,6 +147,6 @@ If you're building something ambitious, let's connect.
 
 <div align="center">
 
-### Building the future with AI + Web3 🚀
+### Building intelligent software, one agent at a time 🤖
 
 </div>
