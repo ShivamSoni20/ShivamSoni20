@@ -1,10 +1,11 @@
+```markdown
 <div align="center">
 
 # Hi, I'm Shivam Soni 👋
 
-### AI Automation Engineer • Full-Stack Developer
+### AI Agent Engineer • Applied AI Engineer
 
-Building AI agents, LLM-powered workflows, and automation systems — from AI SaaS platforms to developer tooling.
+Building autonomous agents, MCP systems, and production AI workflows that reason over context, use tools, integrate with real APIs, and execute meaningful work.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shivamsoni28)
 [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/shivam_soni18)
@@ -17,70 +18,122 @@ Building AI agents, LLM-powered workflows, and automation systems — from AI Sa
 
 # 🚀 About Me
 
-I'm an independent AI engineer building products that combine LLMs, autonomous agents, and workflow automation.
+I'm an **AI Agent Engineer** focused on building software that goes beyond generating answers — systems that can understand context, make decisions, use tools, interact with external services, maintain state, and complete multi-step workflows.
 
-Over the past year I've built:
+My work sits at the intersection of **AI agents, backend systems, developer tooling, APIs, automation, and full-stack product engineering**.
 
-- 🤖 AI SaaS platforms
-- 🧠 AI Agent Systems
-- ⚡ Workflow Automation
-- 🌍 Open Source Developer Tools
-- 💸 Payment & Billing Infrastructure
-- ⛓️ Smart Contracts (select projects)
+I've built systems involving:
 
-Most recently, I worked as an **AI Automation Associate at Fiveral Ventures LLP**, building production LLM integrations and event-driven automation pipelines.
+- 🤖 Autonomous and tool-using AI agents
+- 🔌 MCP servers and agent-tool interfaces
+- 🧠 LLM orchestration and structured outputs
+- 🔄 Durable multi-step workflows
+- 🛡️ Deterministic validation and safety boundaries
+- 🔗 API, webhook, and third-party integrations
+- 📚 RAG and retrieval-backed workflows
+- ⚡ Event-driven automation
+- 🧪 Agent verification and evaluation workflows
+- 💳 Payment and transaction infrastructure
+
+Most recently, I worked as an **AI Automation Associate at Fiveral Ventures LLP**, building LLM integrations, API-driven workflows, and event-based automation systems.
+
+I enjoy turning ambiguous business problems into software that can **reason, act, verify, and recover from failure**.
 
 ---
 
 # 🏆 Featured Projects
 
-## 🤖 OPT Coach
+## 💳 [Recover](https://github.com/ShivamSoni20/Recover)
 
-AI-powered Company Brain for service businesses.
+An autonomous payment recovery system that detects failed payments, diagnoses the failure, chooses a recovery strategy, executes approved actions, and independently verifies the final outcome.
+
+The agent uses AI for reasoning while deterministic code controls financial execution and safety boundaries.
+
+**Highlights**
+
+- Durable LangGraph workflows
+- Real Razorpay API and webhook integration
+- RAG-supported failure diagnosis
+- Structured LLM outputs
+- Human approval interrupts
+- Deterministic recovery policies
+- Idempotent external actions
+- Independent provider verification
+- Persistent audit and verification receipts
 
 **Tech**
 
-Next.js • TypeScript • OpenAI • Supabase
+TypeScript • LangGraph • LangChain • OpenRouter • PostgreSQL • Supabase • pgvector • Razorpay • Zod • Vitest
 
 ---
 
-## 🤖 AgentMarket
+## 🧠 [Ambiguity Compiler](https://github.com/ShivamSoni20/AmbiguityCompiler)
 
-Autonomous AI Agent Marketplace with escrowed payments and result verification.
+A developer tool that converts vague software requirements into explicit, human-approved, testable behavioral contracts before an AI coding agent implements the wrong interpretation.
+
+It combines an MCP server, Codex workflow, structured LLM analysis, deterministic validation, human approval, generated tests, and durable decision receipts.
+
+**Highlights**
+
+- MCP server with multiple agent tools
+- OpenAI Responses API integration
+- Codex skill workflow
+- Structured JSON-schema outputs
+- Human-in-the-loop decision gates
+- Deterministic semantic validation
+- Test contract generation
+- Vitest verification
+- Durable decision receipts
 
 **Tech**
 
-Next.js • Node.js • AI Agents • Solidity
+TypeScript • MCP • OpenAI • Codex • TanStack Start • Zod • Vitest
 
 ---
 
-## 💳 DodoArc
+## 🔍 [ProbeKit](https://github.com/ShivamSoni20/ProbeKit)
 
-Programmable billing infrastructure for AI applications.
+A production-style preflight scanner for agent-service endpoints that detects networking, protocol, security, and payment-challenge failures before deployment.
+
+ProbeKit turns unreliable endpoint behavior into deterministic evidence and actionable remediation.
+
+**Highlights**
+
+- Endpoint readiness validation
+- x402 protocol inspection
+- SSRF protection
+- DNS and redirect validation
+- Bounded network requests
+- Deterministic scoring
+- Structured evidence and remediation
+- Production API endpoint
 
 **Tech**
 
-TypeScript • Dodo Payments • Solana
+TypeScript • TanStack Start • React • Zod • Nitro • x402
 
 ---
 
-## 🌍 OrbitPay
+## 🤖 [AgentMarket](https://github.com/ShivamSoni20/AgentMarket)
 
-Payroll and cross-border payment platform.
+An agent-to-agent work marketplace where autonomous worker agents execute jobs, submit results, undergo automated verification, and receive escrowed payment after successful completion.
+
+The system includes orchestrator, worker, and auditor agents operating across an event-driven workflow.
+
+**Highlights**
+
+- Multi-agent architecture
+- Autonomous worker execution
+- Deterministic task assignment
+- AI-assisted result verification
+- Auditor agent
+- Escrowed payments
+- WebSocket event streaming
+- On-chain result verification
 
 **Tech**
 
-React • TypeScript • Stellar
-
----
-
-## 💰 StructuredYield
-
-A Uniswap v4 Hook separating LP positions into Principal Tokens and Yield Tokens.
-
-**Tech**
-
-Solidity • Uniswap v4 • React • TypeScript
+Node.js • AI Agents • AIML API • Solidity • Hardhat • Ethers • WebSockets • Somnia
 
 ---
 
@@ -88,33 +141,49 @@ Solidity • Uniswap v4 • React • TypeScript
 
 <div align="center">
 
-### 🤖 AI & Automation
+### 🤖 AI & Agent Engineering
+
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-000000?style=for-the-badge)
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-121212?style=for-the-badge)
+![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
+### 💻 Languages
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
 ### ⚛️ Frontend
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![TanStack](https://img.shields.io/badge/TanStack-FF4154?style=for-the-badge)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+### ⚙️ Backend & Data
 
-### ☁️ Dev Tools
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3068B7?style=for-the-badge)
+
+### 🔌 Agent Integrations & Infrastructure
+
+![REST API](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge)
+![Webhooks](https://img.shields.io/badge/Webhooks-FF6B6B?style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-### 🔗 Also worked with
+### 🔗 Also Worked With
+
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
@@ -122,31 +191,56 @@ Solidity • Uniswap v4 • React • TypeScript
 
 </div>
 
-# 🌱 Currently Exploring
+---
 
-- Autonomous AI Agents
-- AI Infrastructure
-- Agentic Commerce
-- AI Workflow Automation
-- RAG & Document Intelligence
+# 🔨 Currently Building
+
+I'm currently going deeper into the engineering required to make autonomous agents reliable in production:
+
+- 🤖 Autonomous tool-using agents
+- 🔌 MCP servers and agent-tool protocols
+- 🧠 Agent orchestration and durable execution
+- 📊 Agent evaluation and observability
+- 🛡️ Deterministic guardrails and verification
+- 💾 Memory, RAG, and persistent agent state
+- 🔄 Event-driven and long-running workflows
+- ⚡ AI-native developer tooling
+- 🌐 Production AI infrastructure
+
+---
+
+# 🎯 What I Care About
+
+I’m particularly interested in systems where AI has to do more than generate text.
+
+I like building agents that can:
+
+**reason → choose tools → take actions → observe results → recover from failures → verify outcomes**
+
+The most interesting problems to me are where probabilistic AI meets deterministic software, external APIs, business rules, and real-world consequences.
 
 ---
 
 # 🤝 Let's Build Together
 
-I'm always interested in collaborating on:
+I'm interested in working on:
 
-- AI Products
-- AI Automation
+- AI Agents
+- Applied AI Products
+- AI-Native Software
 - Developer Tools
+- MCP & Agent Infrastructure
+- AI Automation
+- Production LLM Systems
 - Open Source
 
-If you're building something ambitious, let's connect.
+If you're building ambitious AI systems, I'd love to connect.
 
 ---
 
 <div align="center">
 
-### Building intelligent software, one agent at a time 🤖
+### Building agents that don't just answer — they act. 🤖
 
 </div>
+```
