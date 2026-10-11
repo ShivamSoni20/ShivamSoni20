@@ -2,9 +2,7 @@
 
 # Hi, I'm Shivam Soni 👋
 
-### AI Agent Engineer • Applied AI Engineer
-
-Building autonomous agents, MCP systems, and production AI workflows that reason over context, use tools, integrate with real APIs, and execute meaningful work.
+### AI Engineer | Applied AI | Ex-Fiveral Ventures 💼 | Agents That Reason, Act, Verify & Ship 🤖 | LangGraph · MCP · TS | 🏆 Hackathon Winner
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shivamsoni28)
 [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/shivam_soni18)
