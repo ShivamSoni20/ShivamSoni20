@@ -6,10 +6,10 @@
 
 Building autonomous agents, MCP systems, and production AI workflows that reason over context, use tools, integrate with real APIs, and execute meaningful work.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/shivamsoni28)
-[![X](https://img.shields.io/badge/X-000000?style=flat-square\&logo=x\&logoColor=white)](https://x.com/shivam_soni18)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shivamsoni28)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/shivam_soni18)
 [![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=flat-square)](https://shivamsoni.me)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square\&logo=gmail\&logoColor=white)](mailto:ss28022802@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ss28022802@gmail.com)
 
 </div>
 
@@ -64,6 +64,27 @@ The system uses AI for reasoning while deterministic code controls financial exe
 
 ---
 
+## 🏢 [Biz Coach](https://github.com/ShivamSoni20/Biz-Coach)
+
+An AI-guided Company Brain builder that turns a founder's tribal knowledge into structured SOPs, judgment rules, and skills that their team — and their AI agents — can use from day one.
+
+A 5-question coaching flow compiles into `KNOWLEDGE.md`, `PROCESSES.md`, `JUDGMENT.md`, a shareable page, and a live JSON API. A LangGraph multi-agent pipeline (interviewer → completeness checker → writer) runs the coaching, RAG powers cited Q&A over every brain, and an eval harness guards quality in CI.
+
+### Highlights
+
+* LangGraph multi-agent coaching flow with Supabase checkpointing
+* RAG with cited answers over generated company brains (pgvector)
+* JSON-schema-constrained structured extraction with deterministic validation
+* Anti-hallucination design — never invents unstated details
+* Agent harness with dry-run mode and append-only audit log
+* Eval harness (faithfulness, citation precision) gating CI
+* Streaming coaching chat with Hinglish-aware prompting
+* Live JSON API and shareable read-only brain pages
+
+**Tech:** TypeScript • Next.js • LangGraph • Supabase • pgvector • OpenRouter • Tailwind CSS
+
+---
+
 ## 🧠 [Ambiguity Compiler](https://github.com/ShivamSoni20/AmbiguityCompiler)
 
 A developer tool that converts vague software requirements into explicit, human-approved, testable behavioral contracts before an AI coding agent implements the wrong interpretation.
@@ -107,78 +128,57 @@ ProbeKit turns unreliable endpoint behavior into deterministic evidence and acti
 
 ---
 
-## 🤖 [AgentMarket](https://github.com/ShivamSoni20/AgentMarket)
-
-An agent-to-agent work marketplace where autonomous worker agents execute jobs, submit results, undergo automated verification, and receive escrowed payment after successful completion.
-
-The system includes orchestrator, worker, and auditor agents operating across an event-driven workflow.
-
-### Highlights
-
-* Multi-agent architecture
-* Autonomous worker execution
-* Deterministic task assignment
-* AI-assisted result verification
-* Auditor agent
-* Escrowed payments
-* WebSocket event streaming
-* On-chain result verification
-
-**Tech:** Node.js • AI Agents • AIML API • Solidity • Hardhat • Ethers • WebSockets • Somnia
-
----
-
 # 🛠 Tech Stack
 
 <div align="center">
 
 ### 🤖 AI & Agent Engineering
 
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge\&logo=openai\&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-000000?style=for-the-badge)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge\&logo=google\&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
 ![LangGraph](https://img.shields.io/badge/LangGraph-121212?style=for-the-badge)
 ![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge\&logo=n8n\&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
 ### 💻 Languages
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### ⚛️ Frontend
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TanStack](https://img.shields.io/badge/TanStack-FF4154?style=for-the-badge)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ### ⚙️ Backend & Data
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge\&logo=supabase\&logoColor=white)
-![pgvector](https://img.shields.io/badge/pgvector-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Zod](https://img.shields.io/badge/Zod-3068B7?style=for-the-badge)
 
 ### 🔌 Integrations & Infrastructure
 
 ![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge)
 ![Webhooks](https://img.shields.io/badge/Webhooks-FF6B6B?style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge\&logo=git\&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge\&logo=render\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 
 ### 🔗 Also Worked With
 
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge\&logo=solidity\&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge\&logo=ethereum\&logoColor=white)
-![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge\&logo=solana\&logoColor=white)
-![Stellar](https://img.shields.io/badge/Stellar-000000?style=for-the-badge\&logo=stellar\&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
+![Stellar](https://img.shields.io/badge/Stellar-000000?style=for-the-badge&logo=stellar&logoColor=white)
 
 </div>
 
