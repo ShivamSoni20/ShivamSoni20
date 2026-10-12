@@ -105,14 +105,16 @@ It combines an MCP server, Codex workflow, structured LLM analysis, deterministi
 
 ---
 
-## 🔍 [ProbeKit](https://github.com/ShivamSoni20/ProbeKit)
+## ✈️ [PreFlight](https://github.com/ShivamSoni20/PreFlight)
 
-A production-style preflight scanner for agent-service endpoints that detects networking, protocol, security, and payment-challenge failures before deployment.
-
-ProbeKit turns unreliable endpoint behavior into deterministic evidence and actionable remediation.
+A production-grade preflight scanner for agent-service endpoints — the preflight check for the agent economy. A LangGraph-orchestrated battery of deterministic network, protocol, and payment-challenge probes validates any endpoint and returns a readiness score with evidence for every check and RAG-grounded fixes for every failure.
 
 ### Highlights
 
+* LangGraph-orchestrated audit pipeline (validate → safety gate → fetch → classify → aggregate → remediate)
+* RAG-grounded remediation — fixes cite similar past failures instead of templated guesses
+* Validated tool harness with timeouts and byte budgets
+* Eval harness gating CI with a golden suite over adversarial cases
 * Endpoint readiness validation
 * x402 protocol inspection
 * SSRF protection
@@ -122,7 +124,7 @@ ProbeKit turns unreliable endpoint behavior into deterministic evidence and acti
 * Structured evidence and remediation
 * Production API endpoint
 
-**Tech:** TypeScript • TanStack Start • React • Zod • Nitro • x402
+**Tech:** TypeScript • TanStack Start • React • LangGraph • LangChain • OpenRouter • Zod • Nitro • x402 • Bun
 
 ---
 
